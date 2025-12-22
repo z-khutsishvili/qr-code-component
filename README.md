@@ -4,8 +4,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-nu124xlQIK]()
-- Live Site URL: [https://zauri-khutsishvili.github.io/qr-code-component/](https://z-khutsishvili.github.io/qr-code-component/)
+- Solution URL: []()
+- Live Site URL: [https://z-khutsishvili.github.io/qr-code-component/](https://z-khutsishvili.github.io/qr-code-component/)
 
 ## Built with
 
@@ -15,4 +15,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Frontend Mentor - [@Z-Khutsishvili](https://www.frontendmentor.io/profile/Z-Khutsishvili)
+- Frontend Mentor - [@z-khutsishvili](https://www.frontendmentor.io/profile/z-khutsishvili)

@@ -31,6 +31,7 @@ body {
 h2 {
     font-size: 2.2rem;
     font-weight: 700;
+    line-height: 120%;
     color: var(--dark-blue);
 }
 
@@ -38,6 +39,7 @@ p {
     font-size: 1.5rem;
     color: var(--grayish-blue);
     letter-spacing: calc(1em / 75);
+    line-height: 140%;
 }
 
 .card {

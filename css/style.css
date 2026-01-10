@@ -43,7 +43,7 @@ p {
 }
 
 .card {
-    width: 32rem;
+    max-width: 32rem;
     min-height: 49.9rem;
     padding: 1.6em;
     background-color: var(--white);

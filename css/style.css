@@ -30,20 +30,6 @@ body {
     position: relative;
 }
 
-h2 {
-    font-size: 2.2rem;
-    font-weight: 700;
-    line-height: 120%;
-    color: var(--dark-blue);
-}
-
-p {
-    font-size: 1.5rem;
-    color: var(--grayish-blue);
-    letter-spacing: calc(1em / 75);
-    line-height: 140%;
-}
-
 .card {
     max-width: 32rem;
     min-height: 49.9rem;
@@ -52,6 +38,20 @@ p {
     box-shadow: var(--box-shadow-light);
     border-radius: 2rem;
     overflow: hidden;
+}
+
+.card h2 {
+    font-size: 2.2rem;
+    font-weight: 700;
+    line-height: 120%;
+    color: var(--dark-blue);
+}
+
+.card p {
+    font-size: 1.5rem;
+    color: var(--grayish-blue);
+    letter-spacing: calc(1em / 75);
+    line-height: 140%;
 }
 
 .card__qr-code {

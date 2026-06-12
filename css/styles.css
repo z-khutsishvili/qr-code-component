@@ -98,4 +98,5 @@ body {
 .card__description {
   font-weight: 400;
   color: var(--slate-500);
+  line-height: 140%;
 }

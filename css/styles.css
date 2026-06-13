@@ -27,7 +27,7 @@ body {
 
 .card {
   background-color: var(--white);
-  max-width: 20rem;
+  width: clamp(1rem, 85.333333%, 20rem);
   padding: 1rem;
   border-radius: 1.25rem;
   box-shadow: 0 1.5625rem 1.5625rem 0 rgba(0, 0, 0, 0.0477);

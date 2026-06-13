@@ -2,6 +2,8 @@
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
+![](./preview.jpg)
+
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-zBem92pwLi](https://www.frontendmentor.io/solutions/qr-code-component-zBem92pwLi)
